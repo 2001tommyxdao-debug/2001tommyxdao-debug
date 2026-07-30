@@ -1,6 +1,6 @@
 ## Tommy Dao
 
-Business Systems Analyst II at Origami Risk. Four years building configuration, reporting and internal tooling for insurance clients, most of it in the gap between what a customer asks for and what the system can actually be made to do.
+Four years as a business systems analyst in enterprise risk and insurance software, building configuration, reporting and internal tooling, most of it in the gap between what a customer asks for and what the system can actually be made to do.
 
 I am an analyst who builds. Not a software engineer, and the distinction is the point: I spend my day in requirements, data models and client calls, and I write the code when the thing that would solve the problem does not exist yet.
 
